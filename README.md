@@ -2,7 +2,7 @@
 
 
 # Thinking Cities Platform 
-Documentación sobre la plataforma que disponemos en FIWARE Zone
+Documentación sobre la plataforma que disponemos en FIWARE Zone.
 https://thinking-cities.readthedocs.io/en/master/
 
 # Información de contexto
