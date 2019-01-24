@@ -1,5 +1,5 @@
 # Documentación adicional
-# ***********************
+
 
 # Thinking Cities Platform 
 Documentación sobre la plataforma que disponemos en FIWARE Zone
